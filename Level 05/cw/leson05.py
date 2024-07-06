@@ -1,0 +1,23 @@
+hashi='mate'
+car="maisuradze"
+print (hashi+car)
+num1=5/2
+num2=10/2
+num3=12/2
+num4=15/3
+num5=67-13
+num6=59+15
+num7=56*35
+num8=67*12
+num9=100+19
+num10=164+24
+print(num1)
+print(num2)
+print(num3)
+print(num4)
+print(num5)
+print(num6)
+print(num7)
+print(num8)
+print(num9)
+print(num10)
